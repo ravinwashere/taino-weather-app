@@ -1,0 +1,12 @@
+{
+  "name": "taino-js",
+  "version": "1.0.0",
+  "description": "A small weather app with taino js",
+  "main": "taino.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "live-server --port=8080 --entry-file=index.html"
+  },
+  "author": "Ravindra Shekhawat",
+  "license": "MIT"
+}
